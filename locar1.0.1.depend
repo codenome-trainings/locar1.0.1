@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1434935230 source:c:\users\thiago\documents\github\locar1.0.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1434919999 source:\\codenome\locar1.0.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+
